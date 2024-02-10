@@ -6,7 +6,7 @@ Welcome to the PyTorch Code Repository! This repository is a comprehensive colle
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
 3. [Notebooks](#notebooks)
-   - [PyTorch Basics](#pytorch-basics)
+   - [PyTorch Basics(Tensors & Operations)](#pytorch-basics)
    - [Data Augmentation](#data-augmentation)
    - [Data Classification](#data-classification)
    - [Regression Model](#regression-model)
@@ -35,7 +35,7 @@ cd pytorch-code-repo
 ## Notebooks
 
 ##### PyTorch Basics
-Understand the foundational concepts of PyTorch.
+Understand the foundational concepts of PyTorch with tensors and their operations. 
 
 ##### Data Augmentation
 Learn techniques to augment your dataset for improved model performance.
