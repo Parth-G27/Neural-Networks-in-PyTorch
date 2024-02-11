@@ -1,0 +1,9 @@
+{
+    "javascript.suggest.completeFunctionCalls": true,
+    "typescript.suggest.completeFunctionCalls": true,
+    "python.autoComplete.extraPaths": [
+        
+    ],
+    "python.analysis.extraPaths": [],
+    "python.analysis.completeFunctionParens": true
+}
